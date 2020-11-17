@@ -6,3 +6,10 @@ brew tap homebrew/cask-fonts
 brew cask install font-fira-code
 brew install wget
 
+curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | bash
+
+nvm install 14
+
+npm install -g lite-server eslint
+
+brew cask install visual-studio-code
