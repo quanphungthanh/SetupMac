@@ -5,4 +5,5 @@ ROAD_MAP
 3. Chrome
 4. Nodejs
 5. Docker
-6. Code editor (vscode, inteliji)
+6. Code editor (vscode, inteliji, xcode)
+7. Git  

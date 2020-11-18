@@ -6,6 +6,8 @@ brew tap homebrew/cask-fonts
 brew cask install font-fira-code
 brew install wget
 
+ssh-keygen -t rsa -C your email address
+
 curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | bash
 
 nvm install 14
