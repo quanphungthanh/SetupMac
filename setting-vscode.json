@@ -1,0 +1,47 @@
+{
+    "files.autoSave": "off",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "terminal.integrated.shell.osx": "/usr/local/bin/bash",
+    "files.associations": {
+        "*.js": "javascriptreact"
+    },
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.formatOnSave": true,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "workbench.colorTheme": "Material Theme Palenight High Contrast",
+    "workbench.colorCustomizations": {
+        "activityBarBadge.background": "#C6FF00",
+        "activityBar.activeBorder": "#C6FF00",
+        "list.activeSelectionForeground": "#C6FF00",
+        "list.inactiveSelectionForeground": "#C6FF00",
+        "list.highlightForeground": "#C6FF00",
+        "scrollbarSlider.activeBackground": "#C6FF0050",
+        "editorSuggestWidget.highlightForeground": "#C6FF00",
+        "textLink.foreground": "#C6FF00",
+        "progressBar.background": "#C6FF00",
+        "pickerGroup.foreground": "#C6FF00",
+        "tab.activeBorder": "#C6FF00",
+        "notificationLink.foreground": "#C6FF00",
+        "editorWidget.resizeBorder": "#C6FF00",
+        "editorWidget.border": "#C6FF00",
+        "settings.modifiedItemIndicator": "#C6FF00",
+        "settings.headerForeground": "#C6FF00",
+        "panelTitle.activeBorder": "#C6FF00",
+        "breadcrumb.activeSelectionForeground": "#C6FF00",
+        "menu.selectionForeground": "#C6FF00",
+        "menubar.selectionForeground": "#C6FF00",
+        "editor.findMatchBorder": "#C6FF00",
+        "selection.background": "#C6FF0040",
+        "statusBarItem.remoteBackground": "#C6FF00"
+    },
+    "materialTheme.accent": "Acid Lime",
+    "terminal.integrated.shellArgs.osx": [
+        "-l"
+    ],
+    "terminal.external.osxExec": "/bin/bash",
+    "terminal.integrated.inheritEnv": false
+}
