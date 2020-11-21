@@ -15,3 +15,5 @@ nvm install 14
 npm install -g lite-server eslint
 
 brew cask install visual-studio-code
+
+brew cask install stats
